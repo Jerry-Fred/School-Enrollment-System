@@ -1,0 +1,12 @@
+# Executáveis e Binários
+*.exe
+*.dll
+*.o
+*.obj
+
+# Pastas de configuração do editor
+.vscode/
+
+# Documentos extras que não fazem parte do código
+README.txt
+Resumo Explicativo.txt
