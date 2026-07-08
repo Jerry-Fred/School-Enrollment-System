@@ -21,4 +21,4 @@ Language: Pure C.
 # 📸 System Preview
 Below is a demonstration of the School Enrollment System in operation. This view illustrates how the algorithmic queuing system manages the flow of enrollments efficiently:
 
-![Queue Implementation Screenshot](Queue.png)
+![Queue Implementation Screenshot](Image/Queue.png)
